@@ -161,5 +161,6 @@ cython_debug/
 
 # VSCODE
 .DS_Store
-# Data
+# Project
 data/
+models/
